@@ -1,5 +1,5 @@
 # Welcome to the Functional Nanoscale Imaging of Interfaces Laboratory!
-![Logo](./assests/Logo.jpeg)
+![Logo](./Logo.jpeg)
 
 We are a lively group hosted in the Chemistry Department of University of São Paulo (USP), looking - sometimes literally- at the properties of interfaces at the nanoscale, with a particular interest, but not limited to, in biological interfaces and single cell metabolism. We develop our own custom instrumentation for high-end electrochemical and optical imaging of such interfaces and also low-cost electrochemical instruments, geared at teaching and democratising/decentralising science. The applications of our techniques, and our broader interests, are in celular biology, electrochemical interfaces, energy storage and conversion materials and catalyses. 
 
